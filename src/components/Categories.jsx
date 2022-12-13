@@ -2,7 +2,7 @@ import React from 'react'
 
 const Categories = () => {
   return (
-    <div className='flex justify-between gradient mx-[2.5rem] px-4 mt-8'>
+    <div className='flex justify-between gradient mx-[2rem] px-4 mt-8'>
       <ul className="text-white flex items-center gap-8 py-1.5 text-[13px]">
         <li>
           <p>Your Store</p>

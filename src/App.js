@@ -9,7 +9,7 @@ import Footer from './components/Footer';
 const App = () => {
   return (
     <div className="bg-[#1b2838] h-screen">
-        <Navbar />
+      <Navbar />
       <Categories />
       <Recommended /> 
       <SpecialOffers />
